@@ -122,12 +122,23 @@ img {
   color: white;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   header {
     width: 100%;
     height: 5%;
     display: flex;
     flex-direction: column;
+  }
+
+  .titulo {
+    width: 100%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .link {
+    width: 100%;
   }
 
   .conteudo {
