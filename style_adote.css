@@ -138,9 +138,10 @@ img {
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-
-    .copyright {
-      width: 100%;
-      height: 10vh;
   }
 
+  .copyright {
+    width: 100%;
+    height: 10vh;
+  }
+}
